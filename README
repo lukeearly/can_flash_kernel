@@ -1,0 +1,7 @@
+Flash kernel for TI C2000
+
+Supports subset of CAN Calibration Protocol:
+- Serves arbitrary data upload and download in memory
+- Special code download to flash for reprogramming
+
+Todo: streaming of DAQ packets
